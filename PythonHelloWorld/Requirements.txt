@@ -1,0 +1,5 @@
+python-dotenv
+requests
+azure-cognitiveservices-language-textanalytics
+azure-cognitiveservices-vision-face
+uuid
